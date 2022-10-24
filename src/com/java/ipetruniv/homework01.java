@@ -73,7 +73,7 @@ public class homework01 {
         System.out.println(Double01+ "/" + Double02+ "=" + DivDouble );
 
 
-        System.out.println("\n Work with Float  [-2^63..2^63-1]");
+        System.out.println("\n Work with Float  [3.4e−038..3.4e+038]");
         float   Float01 = 2.345f;
         float   Float02 = 3.14f;
 
