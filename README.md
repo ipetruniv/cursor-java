@@ -1,0 +1,1 @@
+Repository to store homework results of Cursor Java course
